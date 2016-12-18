@@ -1,0 +1,66 @@
+{
+	"balkons-weaponmod": {},
+	"ender-storage": {},
+	"buildcraft": {},
+	"carpenters-blocks": {},
+	"enchanting-plus": {},
+		"_comment": "extrabiomesxl": {}, not on 1.10",
+	"gendustry": {},
+	"hardcore-ender-expansion": {},
+	"pams-harvestcraft": {},
+	"magneticraft": {},
+	"Mekanism" {"src": "http://aidancbrady.com/wp-content/uploads/mekanism/295-recommended/Mekanism-1.10.2-9.2.1.295.jar"}
+	"modular-force-field-systems-mffs": {},
+	"power-converters3": {},
+		"_comment": "openblocks": {}, not on 1.10",
+	"project-red-base": {},
+	"psi": {},
+	"redstone-flux-arsenal": {},
+	"rftools-dimensions": {},
+	"roguelike-dungeons": {},
+	"stellar-sky": {},
+	"steves-factory-manager-reborn": {},
+	"super-crafting-frame": {},
+		"_comment": "biome-bundle": {}, needs terrain control",
+		"_comment": "thaumcraft": {}, not in 1.10",
+	"thermal-dynamics": {},
+	"tinkers-construct": {},
+	"not-enough-wands": {},
+	"quintessential-creatures": {
+        "_comment": "Specify a source for non-Curse mods. This can also be a relative path on the local filesystem.",
+        "_very_important_comment": "Still inside git, I insist.",
+        "src": "http://qcreatures.net/dl/qcreatures-2.0.1.jar"
+		}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
